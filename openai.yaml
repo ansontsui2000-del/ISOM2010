@@ -1,0 +1,6 @@
+interface:
+  display_name: "Company Slide Mockups"
+  short_description: "Company-branded consulting slide images"
+  default_prompt: "Use $company-slide-mockups to turn my company analysis into a Calibri slide image using my reference deck layouts."
+policy:
+  allow_implicit_invocation: true
